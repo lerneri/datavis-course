@@ -1,0 +1,14 @@
+{
+  "name": "d27ed7516512f253",
+  "main": "d27ed7516512f253@270.js",
+  "version": "270.0.0",
+  "homepage": "https://observablehq.com/d/d27ed7516512f253",
+  "author": {
+    "name": "data-vis-ufc",
+    "url": "https://observablehq.com/@data-vis-ufc"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
